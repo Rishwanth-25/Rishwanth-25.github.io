@@ -1,0 +1,49 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:rgb(157, 156, 156);
+    margin: 20px;
+    
+}
+header{
+    background-color: rgb(2, 2, 83);
+    color: whitesmoke;
+    text-align:center; 
+    padding: 10px;
+}
+section{
+    padding: 15px;
+    background-color: white;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0,1);
+}
+img{
+    border-radius: 55%;
+    margin-bottom: 10px;
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+th,td{
+    border: 1px solid black;
+    padding: 8px;
+    text-align: center;
+}
+
+
+form input, form textarea{
+    width: 100%;
+    padding: 10spx;
+    margin: 5px, 0;
+    box-sizing: border-box;
+}
+input[type="Submit"]{
+    background-color:blue ;
+    color: white ;
+    font-weight: bold;
+    font-size: 18px;
+    
+ 
+}
